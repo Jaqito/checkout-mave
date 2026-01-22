@@ -1,7 +1,7 @@
-import CheckoutScaffold from './components/CheckoutScaffold'
+import DemoSelector from './components/DemoSelector'
 
 function App() {
-  return <CheckoutScaffold />
+  return <DemoSelector />
 }
 
 export default App
